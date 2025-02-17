@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Ejemplo_1</string>
+
+        <string name="zodiac_title">Descubre tu Signo Zodiacal</string>
+        <string name="birth_day_label">Día de nacimiento:</string>
+        <string name="birth_month_label">Mes de nacimiento:</string>
+        <string name="calculate_sign_button">Calcular Signo</string>
+        <string name="zodiac_image_description">Imagen del signo zodiacal</string>
+
+
+<!-- Existing strings -->
+<string name="your_sign_is">Tu signo es: %1$s</string>
+<string name="invalid_date">Fecha inválida. Por favor verifica el día y mes.</string>
+
+<!-- Zodiac descriptions -->
+<string name="aries_description">Aries es el primer signo del zodíaco. Su elemento es el fuego y está regido por Marte. Las personas de Aries son valientes, decididas y confiadas.</string>
+<string name="taurus_description">Tauro es el segundo signo del zodíaco. Su elemento es la tierra y está regido por Venus. Los Tauro son pacientes, prácticos y determinados.</string>
+<string name="gemini_description">Géminis es el tercer signo del zodíaco. Su elemento es el aire y está regido por Mercurio. Los Géminis son versátiles, intelectuales y comunicativos.</string>
+<string name="cancer_description">Cáncer es el cuarto signo del zodíaco. Su elemento es el agua y está regido por la Luna. Los Cancer son emocionales, protectores e intuitivos.</string>
+<string name="leo_description">Leo es el quinto signo del zodíaco. Su elemento es el fuego y está regido por el Sol. Los Leo son creativos, apasionados y generosos.</string>
+<string name="virgo_description">Virgo es el sexto signo del zodíaco. Su elemento es la tierra y está regido por Mercurio. Los Virgo son metódicos, prácticos y perfeccionistas.</string>
+<string name="libra_description">Libra es el séptimo signo del zodíaco. Su elemento es el aire y está regido por Venus. Los Libra son diplomáticos, justos y sociables.</string>
+<string name="scorpio_description">Escorpio es el octavo signo del zodíaco. Su elemento es el agua y está regido por Plutón. Los Escorpio son intensos, poderosos y pasionales.</string>
+<string name="sagittarius_description">Sagitario es el noveno signo del zodíaco. Su elemento es el fuego y está regido por Júpiter. Los Sagitario son optimistas, aventureros y filosóficos.</string>
+<string name="capricorn_description">Capricornio es el décimo signo del zodíaco. Su elemento es la tierra y está regido por Saturno. Los Capricornio son ambiciosos, responsables y disciplinados.</string>
+<string name="aquarius_description">Acuario es el undécimo signo del zodíaco. Su elemento es el aire y está regido por Urano. Los Acuario son originales, independientes y humanitarios.</string>
+<string name="pisces_description">Piscis es el duodécimo signo del zodíaco. Su elemento es el agua y está regido por Neptuno. Los Piscis son intuitivos, artísticos y compasivos.</string>
+
+<!-- Month names array -->
+<string-array name="months">
+    <item>Enero</item>
+    <item>Febrero</item>
+    <item>Marzo</item>
+    <item>Abril</item>
+    <item>Mayo</item>
+    <item>Junio</item>
+    <item>Julio</item>
+    <item>Agosto</item>
+    <item>Septiembre</item>
+    <item>Octubre</item>
+    <item>Noviembre</item>
+    <item>Diciembre</item>
+</string-array>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base de la app -->
+    <color name="primary">#2196F3</color>
+    <color name="primary_dark">#1976D2</color>
+    <color name="primary_light">#BBDEFB</color>
+    <color name="accent">#FF4081</color>
+
+    <!-- Colores para texto -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_white">#FFFFFF</color>
+
+    <!-- Colores para botones -->
+    <color name="button_normal">#2196F3</color>
+    <color name="button_pressed">#1976D2</color>
+    <color name="button_number">#E3F2FD</color>
+    <color name="button_operation">#90CAF9</color>
+    <color name="button_scientific">#64B5F6</color>
+    <color name="button_equals">#FF4081</color>
+
+    <!-- Colores para signos zodiacales -->
+    <color name="zodiac_fire">#FF5722</color>    <!-- Aries, Leo, Sagitario -->
+    <color name="zodiac_earth">#4CAF50</color>   <!-- Tauro, Virgo, Capricornio -->
+    <color name="zodiac_air">#03A9F4</color>     <!-- Géminis, Libra, Acuario -->
+    <color name="zodiac_water">#9C27B0</color>   <!-- Cáncer, Escorpio, Piscis -->
+
+    <!-- Colores de fondo -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="background_dark">#212121</color>
+    <color name="divider">#BDBDBD</color>
+
+    <!-- Colores del sistema Android -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
